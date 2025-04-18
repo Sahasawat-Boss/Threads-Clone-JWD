@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class= "border border-white/35">
         Index Page
     </div>
 </template>
